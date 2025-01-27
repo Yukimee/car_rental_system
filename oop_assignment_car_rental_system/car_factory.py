@@ -10,3 +10,6 @@ class CarFactory:
 # Example usage
 car2 = CarFactory.create_car(102, "Honda", "Civic", 2019, 30000)
 print(car2.get_car_details())
+
+
+# test
